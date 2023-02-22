@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HDFSClient/HDFSClient.iml" filepath="$PROJECT_DIR$/../HDFSClient/HDFSClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JDBC/JDBC.iml" filepath="$PROJECT_DIR$/../JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaBasic/JavaBasic.iml" filepath="$PROJECT_DIR$/../JavaBasic/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kafka-demo/Kafka-demo.iml" filepath="$PROJECT_DIR$/../Kafka-demo/Kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MapReduceDemo/MapReduceDemo.iml" filepath="$PROJECT_DIR$/../MapReduceDemo/MapReduceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Maven/Maven.iml" filepath="$PROJECT_DIR$/../Maven/Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YarnDemo/YarnDemo.iml" filepath="$PROJECT_DIR$/../YarnDemo/YarnDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonclass/commonclass.iml" filepath="$PROJECT_DIR$/commonclass/commonclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/container/container.iml" filepath="$PROJECT_DIR$/container/container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumAndAnnoation/enumAndAnnoation.iml" filepath="$PROJECT_DIR$/enumAndAnnoation/enumAndAnnoation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project220820/flume-demo/flume-demo.iml" filepath="$PROJECT_DIR$/../project220820/flume-demo/flume-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project220820/hive-demo/hive-demo.iml" filepath="$PROJECT_DIR$/../project220820/hive-demo/hive-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduletest/moduletest.iml" filepath="$PROJECT_DIR$/moduletest/moduletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newcharacter/newcharacter.iml" filepath="$PROJECT_DIR$/newcharacter/newcharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project220820/project220820.iml" filepath="$PROJECT_DIR$/../project220820/project220820.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project220824/project220824.iml" filepath="$PROJECT_DIR$/../project220824/project220824.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project220827/project220827.iml" filepath="$PROJECT_DIR$/../project220827/project220827.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflect/reflect.iml" filepath="$PROJECT_DIR$/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/../zookeeper/zookeeper.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../Hello/pom.xml" />
+        <option value="$PROJECT_DIR$/../MapReduceDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../HDFSClient/pom.xml" />
+        <option value="$PROJECT_DIR$/../Maven/pom.xml" />
+        <option value="$PROJECT_DIR$/../YarnDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/project220820/pom.xml" />
+        <option value="$PROJECT_DIR$/../project220820/pom.xml" />
+        <option value="$PROJECT_DIR$/../Kafka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../project220824/pom.xml" />
+        <option value="$PROJECT_DIR$/../untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/../project220827/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PWA">
+    <option name="wasEnabledAtLeastOnce" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JavaSE-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

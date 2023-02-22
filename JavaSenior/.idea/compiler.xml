@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HDFSClient" />
+        <module name="Maven" />
+        <module name="project220824" />
+        <module name="zookeeper" />
+        <module name="project220827" />
+        <module name="hive-demo" />
+        <module name="YarnDemo" />
+        <module name="flume-demo" />
+        <module name="Kafka-demo" />
+        <module name="MapReduceDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flume-demo" target="8" />
+      <module name="HDFSClient" target="11" />
+      <module name="hive-demo" target="8" />
+      <module name="JavaSenior" target="1.5" />
+      <module name="Kafka-demo" target="8" />
+      <module name="MapReduceDemo" target="8" />
+      <module name="Maven" target="11" />
+      <module name="project220820" target="8" />
+      <module name="project220824" target="1.8" />
+      <module name="project220826" target="11" />
+      <module name="project220827" target="8" />
+      <module name="Spark-Core" target="8" />
+      <module name="Spark-Demo" target="8" />
+      <module name="YarnDemo" target="8" />
+      <module name="zookeeper" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
